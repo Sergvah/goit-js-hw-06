@@ -20,4 +20,4 @@ const product = ingredients.forEach(function (item) {
   // console.log(itemsLi);
 });
 
-console.log(product);
+console.log(ulList);
